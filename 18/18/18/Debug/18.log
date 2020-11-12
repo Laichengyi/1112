@@ -1,0 +1,3 @@
+﻿  main.c
+c:\c_code\18\18\18\main.c(19): warning C4098: 'main': 'void' 函式正在傳回值
+  18.vcxproj -> C:\C_code\18\18\Debug\18.exe

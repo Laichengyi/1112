@@ -1,0 +1,3 @@
+﻿  main.c
+c:\c_code\12\source\main.c(12): warning C4013: 'square' 未定義; 假設 extern 傳回整數
+  12.vcxproj -> C:\C_code\12\12\Debug\12.exe
