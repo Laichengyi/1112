@@ -1,4 +1,0 @@
-﻿  main.c
-c:\c_code\27\source\main.c(11): warning C4013: 'factorial' 未定義; 假設 extern 傳回整數
-c:\c_code\27\source\main.c(19): warning C4142: 'factorial': 良性的類型重複定義
-  27.vcxproj -> C:\C_code\27\27\Debug\27.exe
