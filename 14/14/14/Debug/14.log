@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\gf63\desktop\109360236 賴宬亦 1122\14\source\main.c(20): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 '\n'
+c:\users\gf63\desktop\109360236 賴宬亦 1122\14\source\main.c(20): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\gf63\desktop\109360236 賴宬亦 1122\14\source\main.c(20): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  14.vcxproj -> C:\Users\GF63\Desktop\109360236 賴宬亦 1122\14\14\Debug\14.exe
